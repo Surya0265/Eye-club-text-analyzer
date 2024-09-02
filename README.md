@@ -42,7 +42,7 @@ Technologies Used
    For the backend:
    ```bash
    cd backend
-   npm install
+   node index.js
    ```
 
 3. Run the Application
