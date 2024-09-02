@@ -7,7 +7,7 @@ This web application allows users to upload  files and get basic statistics such
 
 
 - File Upload: Upload files for analysis.
-- Statistics Display:** View word count, character count, and the most frequent words.
+- Statistics Display: View word count, character count, and the most frequent words.
 - Visual Effect: Vanta.js Waves effect for a dynamic background.
 
 Technologies Used
@@ -28,9 +28,7 @@ Technologies Used
 
 1. Clone the Repository
 
-   ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+ git clone https://github.com/Surya0265/Eye-club-text-analyzer.git
    
 
   2.Install Dependencies
