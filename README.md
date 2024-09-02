@@ -42,7 +42,7 @@ Technologies Used
    For the backend:
    ```bash
    cd backend
-   node index.js
+   npm install
    ```
 
 3. Run the Application
@@ -50,7 +50,7 @@ Technologies Used
    Start the backend server:
    ```bash
    cd backend
-   npm start
+   node index.js
    ```
 
    Start the frontend development server:
